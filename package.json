@@ -1,0 +1,19 @@
+{
+    "name": "placeholder",
+    "version": "1.0.0",
+    "description": "## VHosts",
+    "main": "webpack.mix.js",
+    "devDependencies": {
+        "laravel-mix": "^6.0.39",
+        "laravel-mix-webp": "^0.1.3"
+    },
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "prod": "mix --production",
+        "build": "mix && mix --production"
+    },
+    "keywords": [],
+    "author": "VDIANA DEV",
+    "license": "(╯°□°）╯︵ ┻━┻"
+}
